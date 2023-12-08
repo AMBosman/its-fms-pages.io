@@ -29,7 +29,7 @@ This document is intended for logistics IT-suppliers wanting to integrate Intell
 
 In the diagram below, a high-level architecture can be found between the ITS Cloud Service Providers and FMS-providers:  
 
-![Architecture of CSP](/images/ArchitectureCSP-FMS.png "Architecture CSP-FMS")
+![Architecture of CSP](/images/ArchitectureCSP-FMS.png)
 
 *Figure 1: High Level architecture of CSP and FMS ecosystem – the ITS-FMS interface is situated between Cloud Service Provider and the Fleet Management System as information providers*  
 
